@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/little_game/static/css/main.cdbcc46c.chunk.css",
+    "main.js": "/little_game/static/js/main.65b57ce5.chunk.js",
+    "main.js.map": "/little_game/static/js/main.65b57ce5.chunk.js.map",
+    "runtime-main.js": "/little_game/static/js/runtime-main.dc1d25a6.js",
+    "runtime-main.js.map": "/little_game/static/js/runtime-main.dc1d25a6.js.map",
+    "static/js/2.b26a41d8.chunk.js": "/little_game/static/js/2.b26a41d8.chunk.js",
+    "static/js/2.b26a41d8.chunk.js.map": "/little_game/static/js/2.b26a41d8.chunk.js.map",
+    "index.html": "/little_game/index.html",
+    "static/css/main.cdbcc46c.chunk.css.map": "/little_game/static/css/main.cdbcc46c.chunk.css.map",
+    "static/js/2.b26a41d8.chunk.js.LICENSE.txt": "/little_game/static/js/2.b26a41d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc1d25a6.js",
+    "static/js/2.b26a41d8.chunk.js",
+    "static/css/main.cdbcc46c.chunk.css",
+    "static/js/main.65b57ce5.chunk.js"
+  ]
+}
